@@ -16,13 +16,14 @@
 </div>
 <div id="content">
 <div class=" container">
-  <div class="about">
-    <div class="about- author">
+  <div class="post">
+    <div class="post- author">
       <img src="ContactPhoto-IMG_20180126_212813.jpg" >
+      <span>about me</span>
     </div>
-    <p class="about-date">Today</p>
-    <h1 class="about-tittle">about Me</h1>
-    <div class="about-content">
+    <p class="post-date">Today</p>
+    <h1 class="post-tittle">about Me</h1>
+    <div class="post-content">
       <p>Hi there! I'm an aspiring web developer</p>
       <p>If you like my blog,please follow me on facebook or twitter and tell your family and friends about it.
       If you want to get in touch,please click on the contact link in the navigation bar.</p>
@@ -35,7 +36,7 @@
     <p>
       <a href="https://twitter.com/@dydouhmohamed">twitter</a>
       <br>
-      <a href="https://facebook.com/dydouh Mohamed"</a>
+      <a href="https://facebook.com/dydouhMohamed"facebook</a>
         </p>
   </div>
   <div class="column">
